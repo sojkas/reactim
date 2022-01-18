@@ -7,7 +7,7 @@ const dummy_data = [
     id: "e1",
     title: "Pojisteni auto",
     price: 8535,
-    date: new Date(2021, 4, 27),
+    date: new Date(2022, 4, 27),
   },
   {
     id: "e2",
@@ -20,7 +20,7 @@ const dummy_data = [
     id: "e4",
     title: "Skrin na saty",
     price: 5587,
-    date: new Date(2021, 9, 3),
+    date: new Date(2022, 9, 3),
   },
 ];
 const App = () => {
